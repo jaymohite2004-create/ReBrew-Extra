@@ -1,4 +1,4 @@
-# ReBrew – Subscription Intelligence Dashboard
+# ReBrew – Dashboard
 
 This Streamlit dashboard is built for **ReBrew** and runs easily on Streamlit Cloud.
 
