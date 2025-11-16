@@ -31,7 +31,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 # PAGE CONFIG
 # ------------------------------------------------------------
 st.set_page_config(
-    page_title="ReBrew – Subscription Intelligence Cockpit",
+    page_title="ReBrew Dashboard",
     layout="wide",
     page_icon="☕",
 )
